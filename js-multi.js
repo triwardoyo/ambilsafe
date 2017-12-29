@@ -23,7 +23,9 @@ var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
 if(x=="1"){xxx="12/health-diet-food.html"}
 if(x=="2"){xxx="12/the-recommended-food-while-fasting_29.html"}
-if(x=="3"){xxx="12/the-difference-in-herbal-medicine-and_29.html"}a_to_ve[i].href="https://www.ambil.xyz/2017/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="3"){xxx="12/the-difference-in-herbal-medicine-and_29.html"}
+if(x=="4"){xxx="12/pokemon-go.html"}
+if(x=="5"){xxx="12/benefits-of-waking-up-in-morning.html"}a_to_ve[i].href="https://www.ambil.xyz/2017/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
